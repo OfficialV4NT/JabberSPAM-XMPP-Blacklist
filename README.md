@@ -1,11 +1,7 @@
 ## Server Blacklist
 
-_Translations: [French (français)](README.fr.md)._
-
 This repository contains a `blacklist.txt` of XMPP domains that are used by
-spammers and do not react to abuse complaints. Servers are added and removed
-according to the following rules. The track record leading to addition or
-removal is documented in the respective git commit.
+spammers and do not react to abuse complaints. Servers are added according to the following rules. The track record leading to addition or removal is documented in the respective git commit.
 
 ### Addition to Blacklist
 
@@ -25,20 +21,4 @@ and did not lead to a reduction of spam traffic from the server:
 
 ### Removal from Blacklist
 
-A server operator can ask for removal from the blacklist by opening an issue
-or PR on this repository. The following conditions must be met to de-list a
-server:
-
-* The server must deploy
-  [XEP-0157: Contact Addresses for XMPP Services][XEP-0157].
-* The operator must react to incoming abuse reports in a timely fashion.
-* The total amount of spam from that server must be insignificant for a watch
-  period of 14 days.
-
-If the conditions are met, the server will be removed from the blacklist after
-the watch period. If a server fails to fulfill these conditions, it will not
-be removed. If the server ceases to fulfill the conditions after removal, it
-may be re-listed immediately.
-
-
-[XEP-0157]: https://xmpp.org/extensions/xep-0157.html
+Once you are on the blacklist, you will no longer be able to request for removal. If caught evading the blacklist ban, will add your new domain to the blacklist. This is to protect the jabber/xmpp network from bad actors.
