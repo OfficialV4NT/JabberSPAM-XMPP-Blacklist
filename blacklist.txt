@@ -11,16 +11,12 @@ jabber.npw.net
 jabber.sampo.ru
 labas.biz
 otr.chat
-paranoid.scarab.name
+priv.vc
 rassnet.org
-safetyjabber.com
-sj.ms
 xmpp.bytesund.biz
 jabber.ru
 xmpp.ru
 netlab.cz
-sj.ms
-safetyjabber.com
 jabbim.pl
 jabster.pl
 chatwith.xyz
@@ -49,7 +45,6 @@ labas.biz
 nigg.ir
 nulled.im
 otr.chat
-paranoid.scarab.name
 priv.vc
 rassnet.org
 safetyjabber.com
@@ -62,3 +57,10 @@ sqli.io
 toad.im
 xmpp.bytesund.biz
 xmpp.xxx
+onionmessenger.com
+jabber.infos.ru
+jabber.gg
+xmpp.jp
+99im.ru
+dw.live
+jab.im
