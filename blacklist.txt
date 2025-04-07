@@ -65,3 +65,4 @@ xmpp.jp
 dw.live
 jab.im
 exploit.im
+lake.money
