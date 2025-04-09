@@ -1,7 +1,6 @@
 ## Server Blacklist
 
-This repository contains a `blacklist.txt` of XMPP domains that are used by
-spammers and do not react to abuse complaints. Servers are added according to the following rules. The track record leading to addition or removal is documented in the respective git commit.
+This repository contains a `blacklist.txt` of XMPP domains that are used by spammers, scammers, hackers, trolls, etc and do not react to abuse complaints. Servers are added according to the following rules. The track record leading to addition or removal is documented in the respective git commit.
 
 ### Addition to Blacklist
 
