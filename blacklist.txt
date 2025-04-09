@@ -66,3 +66,5 @@ dw.live
 jab.im
 exploit.im
 lake.money
+xmpp.cn
+xmpp.vn
