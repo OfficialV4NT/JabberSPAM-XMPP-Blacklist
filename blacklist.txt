@@ -80,3 +80,16 @@ kode.im
 xmpp.cn
 xmpp.vn
 notniger.skin
+jabber.hot-chilli.net
+jabber.hot-chilli.eu
+hot-chilli.net
+hot-chilli.eu
+hot-chilli.im
+im.hot-chilli.net
+im.hot-chilli.eu
+jabb3r.de
+jabb3r.org
+jabber-hosting.de
+xmpp-hosting.de
+openim.de
+openim.eu
